@@ -10,6 +10,7 @@
 Источник данных: [https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling](https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling)
 
 
+# Результат
 Удалось добиться следующих метрик: F1 = 0.62, AUC = 0.5
 
 Сделали это засчёт увеличения меньшего класса для достижения баланса классов и засчёт подбора оптимального порога. Лучше всего себя показала модель случайного леса.
